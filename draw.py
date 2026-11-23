@@ -113,7 +113,7 @@ BRIEFS = [
     (14, "FRI>SUN", "Poland: missiles land; NATO vows defence", 21.0, 53.6),
     (15, "SAT>SUN", "Gaza: food-aid vehicle strike kills 3", 34.5, 31.5),
     (16, "FRI>SUN", "Nigeria: funeral boat toll rises to 29", 6.3, 4.8),
-    (17, "FRI>SUN", "Pentagon memo limits US\u2013Canada defence ties", -75.7, 45.4),
+    (17, "FRI>SUN", "Pentagon memo limits US\u2013Canada defence ties", -77.05, 38.9),
     (18, "FRI>SUN", "Trump orders contractors to report Congress", -77.03, 38.9),
     (19, "FRI>SUN", "Haiti: three Salvadoran troops die in blast", -72.3, 18.5),
     (20, "SUN", "Russian warship sunk at Libya port in drone strike", 20.1, 32.1),
@@ -144,7 +144,7 @@ KPIS = [
     ("35", "LEAD CHANGES IN THE LAS VEGAS GP"),
     ("352", "INDIA'S LEAD AFTER DECLARING 720/9"),
     ("11", "KILLED IN THE CARTEL BOSS CAPTURE"),
-    ("16", "CREW RESCUED FROM THE BURNING SPARTA II"),
+    ("16", "CREW RESCUED FROM THE SPARTA II"),
     ("15", "MISSING UNDER THE DYMER RUBBLE"),
 ]
 
