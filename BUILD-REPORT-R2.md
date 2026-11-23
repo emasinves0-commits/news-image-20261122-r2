@@ -5,7 +5,17 @@
 **Build session:** 38c6b1b1-4386-4e12-869c-47b592bd8531 (this session).
 **Plan session:** 384266bb (verified content plan, `~/workspace/makefun/news-image-20261122-R2-PLAN.md`).
 **Repo:** emasinves0-commits/news-image-20261122-r2 (NEW — R1's dir and repo untouched).
-**Remote HEAD:** (filled after push — see push verification).
+**Remote HEAD (at time of writing):** `6337543f4259e9c073064beba8c1b5a9874747b4`
+("Add entry.png (Sunday Ledger v2, R2)", 2026-11-23T02:31:52Z).
+**Push verification:** all 8 files pushed via PAT (all 201); contents API
+lists all 8 with sizes matching local exactly; local `git hash-object`
+matches the remote blob sha for all 7 root files (0 mismatches); entry.png
+re-downloaded from raw.githubusercontent at the HEAD commit — sha256
+identical to local (`95c41003…`, 268,878 bytes); `.makefun/owner.json`
+re-downloaded — wallet Aoq99… correct. About: homepage
+`https://make.fun/bounty/news-image-20261122` + topic `makefun` (both 200).
+(The final HEAD after this report's own push is one commit later; the parent
+records it at submit time.)
 
 ## Entry
 
